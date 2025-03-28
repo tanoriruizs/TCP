@@ -44,3 +44,5 @@ Luego, puedes escribir mensajes en el cliente para enviarlos al servidor y recib
 - Asegúrate de ejecutar el servidor antes que el cliente.
 - El cliente se desconectará correctamente si se envía el mensaje "DESCONEXION".
 - Puedes modificar el código para mejorar la funcionalidad o agregar nuevas características.
+- Para Interrumpir el servidor de manera manual se tiene que utilizar la combinación CTRL + C
+
